@@ -14,21 +14,24 @@ SRN:PES1UG24CS190
 ### Phase 1
 
 #### 1A - Object Tests
-![1A]<img width="1024" height="196" alt="image" src="https://github.com/user-attachments/assets/fbcaf5c1-1d75-4259-af90-36000d37453c" />
+<img width="1024" height="196" alt="image" src="https://github.com/user-attachments/assets/fbcaf5c1-1d75-4259-af90-36000d37453c" />
 
 
 #### 1B - Object Store Structure
-![1B](ScreenShots/Phase1_1B_object_store.png)
+![1B](<img width="1600" height="600" alt="WhatsApp Image 2026-04-21 at 8 31 03 PM" src="https://github.com/user-attachments/assets/dd6683be-f589-4223-a258-7d1ca57670b0" />
+)
 
 ---
 
 ### Phase 2
 
 #### 2A - Tree Tests
-![2A](ScreenShots/Phase2_2A_test_tree.png)
+![2A](<img width="1600" height="306" alt="WhatsApp Image 2026-04-21 at 8 31 09 PM" src="https://github.com/user-attachments/assets/34924831-790a-4e8c-9925-6b818b02d8e6" />
+)
 
 #### 2B - Tree Object (xxd)
-![2B](ScreenShots/Phase2_2B_tree_xxd.png)
+![2B](<img width="1600" height="113" alt="WhatsApp Image 2026-04-21 at 8 31 15 PM" src="https://github.com/user-attachments/assets/5e95d5c9-194a-442d-83b6-802b0e77c774" />
+)
 
 ---
 
