@@ -38,30 +38,35 @@ SRN:PES1UG24CS190
 ### Phase 3
 
 #### 3A - Add and Status
-![3A](ScreenShots/Phase3_3A_add_status.png)
+![3A](<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/afaa4ad6-6c3d-4ae7-90bc-0a2843e2065c" />
+)
 
 #### 3B - Index File
-![3B](ScreenShots/Phase3_3B_index.png)
+![3B](<img width="1600" height="600" alt="image" src="https://github.com/user-attachments/assets/c91b158c-bc59-48d2-9b0b-5ebcbe1e8354" />)
 
 ---
 
 ### Phase 4
 
 #### 4A - Commit Log
-![4A](ScreenShots/Phase4_4A_log.png)
+![4A](<img width="1600" height="306" alt="image" src="https://github.com/user-attachments/assets/77f5a02b-c983-4c0f-8b0f-8514d4c9199c" />
+)
 
 #### 4B - Object Growth
-![4B](ScreenShots/Phase4_4B_objects.png)
+![4B](<img width="1600" height="113" alt="WhatsApp Image 2026-04-21 at 8 31 15 PM" src="https://github.com/user-attachments/assets/83526997-7f66-4cbe-95a9-52bd55a43d8d" />
+)
 
 #### 4C - Refs and HEAD
-![4C](ScreenShots/Phase4_4C_refs.png)
+![4C](<img width="1600" height="432" alt="image" src="https://github.com/user-attachments/assets/99c73ee9-f6fb-41bf-bdef-29c0c038afc7" />
+)
 
 ---
 
 ### Final Integration
 
 #### Full Test
-![Final](ScreenShots/Final_integration.png)
+![Final](<img width="704" height="1456" alt="image" src="https://github.com/user-attachments/assets/5a3ae5b1-0614-41c9-9307-1eea94743848" />
+)
 
 ---
 
